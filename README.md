@@ -7,6 +7,6 @@ Se  Utilizo react para poder  desarrollar el consumo de la Api y ademas poder  c
 Data valores almacenados para grupo
 ![Evidencia2](IMAGE2.png)
 
-Data almacenada para persona  
+Data almacenados para persona  
 ![Evidencia3](IMG3.jpeg)
 
