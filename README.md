@@ -8,5 +8,5 @@ Data valores almacenados para grupo
 ![Evidencia2](IMAGE2.png)
 
 Data almacenada para persona  
-![Evidencia2](IMG3.png)
+![Evidencia3](IMG3.jpeg)
 
