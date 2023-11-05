@@ -4,9 +4,13 @@
 Se  Utilizo react para poder  desarrollar el consumo de la Api y ademas poder  colocar Header  ID  y  Name    una ves  obtenido el modelo  .
 ![Evidencia1](IMAGE1.png)
 
-Data valores almacenados para grupo
+valores almacenados para grupo
 ![Evidencia2](IMAGE2.png)
 
-Data almacenados para persona  
+valores  almacenados para persona  
 ![Evidencia3](IMG3.jpeg)
 
+Valores  mostrados  en la plataforma .
+
+
+ 
