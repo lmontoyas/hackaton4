@@ -11,6 +11,7 @@ valores  almacenados para persona
 ![Evidencia3](IMG3.jpeg)
 
 Valores  mostrados  en la plataforma .
+![Evidencia34(IMG4.jpeg)
 
 
  
