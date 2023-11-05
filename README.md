@@ -11,7 +11,9 @@ valores  almacenados para persona
 ![Evidencia3](IMG3.jpeg)
 
 Valores  mostrados  en la plataforma .
-![Evidencia34(IMG4.jpeg)
+![Evidencia4](IMG4.jpeg)
 
+Tabla intermedia creado por las relaciones de las entidades  grupos y persona 
 
  
+![Evidencia35](IMG5.jpeg)
